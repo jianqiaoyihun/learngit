@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks change.
 bofore commit can use diff
 before add can use diff
+again understand diff
